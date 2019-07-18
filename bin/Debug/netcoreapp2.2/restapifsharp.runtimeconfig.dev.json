@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/lovato/.dotnet/store/|arch|/|tfm|",
+      "/home/lovato/.nuget/packages",
+      "/home/lovato/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}

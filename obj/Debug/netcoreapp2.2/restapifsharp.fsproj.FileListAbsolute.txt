@@ -1,0 +1,10 @@
+/home/lovato/Documents/restapifsharp/bin/Debug/netcoreapp2.2/restapifsharp.deps.json
+/home/lovato/Documents/restapifsharp/bin/Debug/netcoreapp2.2/restapifsharp.runtimeconfig.json
+/home/lovato/Documents/restapifsharp/bin/Debug/netcoreapp2.2/restapifsharp.runtimeconfig.dev.json
+/home/lovato/Documents/restapifsharp/bin/Debug/netcoreapp2.2/restapifsharp.dll
+/home/lovato/Documents/restapifsharp/bin/Debug/netcoreapp2.2/restapifsharp.pdb
+/home/lovato/Documents/restapifsharp/obj/Debug/netcoreapp2.2/restapifsharp.fsprojAssemblyReference.cache
+/home/lovato/Documents/restapifsharp/obj/Debug/netcoreapp2.2/restapifsharp.AssemblyInfoInputs.cache
+/home/lovato/Documents/restapifsharp/obj/Debug/netcoreapp2.2/restapifsharp.AssemblyInfo.fs
+/home/lovato/Documents/restapifsharp/obj/Debug/netcoreapp2.2/restapifsharp.dll
+/home/lovato/Documents/restapifsharp/obj/Debug/netcoreapp2.2/restapifsharp.pdb

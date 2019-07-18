@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lovato/Documents/restapifsharp/restapifsharp.fsproj": {}
+  },
+  "projects": {
+    "/home/lovato/Documents/restapifsharp/restapifsharp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lovato/Documents/restapifsharp/restapifsharp.fsproj",
+        "projectName": "restapifsharp",
+        "projectPath": "/home/lovato/Documents/restapifsharp/restapifsharp.fsproj",
+        "packagesPath": "/home/lovato/.nuget/packages/",
+        "outputPath": "/home/lovato/Documents/restapifsharp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/home/lovato/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/lovato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Giraffe": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
